@@ -14,10 +14,10 @@ See the full portfolio at **[coopwork.ortizma.com](https://coopwork.ortizma.com)
 ## Currently active
 
 - **[Apollo Replica](https://apolloreplica.com)** — hand-built replicas of Apollo mission hardware: DSKYs, control panels, switches, indicators.
-- **Klubbia** — all-in-one sports-club management software, designed alongside a real club.
-- **[InstaSyte](https://instasyte.com)** — fast, affordable websites for local businesses, turned around in a week.
-- **OrtizMa IoT** — cellular + GNSS connected device, co-developed with [CityFlow](https://cityflow.app).
-- **OrtizMa Ebike Panel** — multi-brand ebike fleet management with live telemetry and GNSS corrections.
+- **[Klubbia](https://sporstify.vercel.app)** — all-in-one sports-club management software, designed alongside a real club.
+- **[InstaSyte](https://instasyte.ortizma.com)** — fast, affordable websites for local businesses, turned around in a week.
+- **OrtizMa IoT** — cellular + GNSS connected device, co-developed with [CityFlow](https://cityflow.app). Not public yet.
+- **[OrtizMa Ebike Panel](https://cityflow.ortizma.com)** — multi-brand ebike fleet management with live telemetry and GNSS corrections.
 
 ## Repositories
 
@@ -25,7 +25,7 @@ Our project repositories are currently **private** while we keep building, docum
 
 ## Get in touch
 
-Want to collaborate, ask about a project, or pitch an idea? Reach out at **jopalabsl@gmail.com**.
+Want to collaborate, ask about a project, or pitch an idea? Reach out at **pablo.ortiz@vibia.com**.
 
 ---
 
