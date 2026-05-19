@@ -1,22 +1,32 @@
 # CoopWork Electronics
 
-Welcome to the official GitHub organization for **CoopWork Electronics**!
+A small, long-running collective shipping software and hardware since 2011. We've gone from a blog on Google Sites to cellular-connected IoT devices, ebike fleet panels, and hand-built Apollo-program replicas — 12 projects, 5 still active, across 15 years.
 
-We are a collaborative group of engineers, developers, and makers dedicated to building innovative software and electronics projects. Our focus is on creating open, community-driven solutions, prototyping new ideas, and sharing knowledge in the fields of software and hardware development.
+See the full portfolio at **[coopwork.ortizma.com](https://coopwork.ortizma.com)**.
 
-## What We Do
+## What we work on
 
-- 🚀 Develop software tools, applications, and libraries
-- 🔌 Design and prototype electronics hardware
-- 🤝 Share best practices, research, and technical knowledge
-- 🧑‍💻 Collaborate on multidisciplinary technology projects
+- 💻 **Software** — web, mobile, and desktop apps. Next.js, React Native, Node, Postgres, MongoDB.
+- 🔌 **Hardware** — ESP32-based devices, custom PCBs in KiCad, mechanical CAD, RF / NFC / IR / GNSS / LTE.
+- 🛰️ **Firmware & telemetry** — MQTT pipelines, OTA updates, fleet dashboards, RTCM corrections.
+- 🤝 **Co-development** — we partner with operators (clubs, fleets, small businesses) and build alongside them.
 
-Our repositories are currently private as we continue to build, document, and polish our projects for future release. Stay tuned for updates!
+## Currently active
 
-## Connect With Us
+- **[Apollo Replica](https://apolloreplica.com)** — hand-built replicas of Apollo mission hardware: DSKYs, control panels, switches, indicators.
+- **Klubbia** — all-in-one sports-club management software, designed alongside a real club.
+- **[InstaSyte](https://instasyte.com)** — fast, affordable websites for local businesses, turned around in a week.
+- **OrtizMa IoT** — cellular + GNSS connected device, co-developed with [CityFlow](https://cityflow.app).
+- **OrtizMa Ebike Panel** — multi-brand ebike fleet management with live telemetry and GNSS corrections.
 
-Want to learn more, collaborate, or have a project idea? Reach out to our team by (insert your preferred contact method here, such as email or a community platform).
+## Repositories
+
+Our project repositories are currently **private** while we keep building, documenting, and polishing them. This org page and the public portfolio site are the best way to follow along for now.
+
+## Get in touch
+
+Want to collaborate, ask about a project, or pitch an idea? Reach out at **jopalabsl@gmail.com**.
 
 ---
 
-Thank you for your interest in **CoopWork Electronics**!
+Thanks for stopping by.
